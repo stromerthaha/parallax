@@ -21,7 +21,7 @@ body,html{
 }
 
 #pg1{
-    background-image: url("img1.jpg");
+    background-image: url("img1.jpg","logo.png");
     
     min-height: 100%;
 }
